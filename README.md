@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/v-{{version}}-black"/>
     <a href="https://github.com/{{author_id}}">
     </a>
-    <a href="https://github.com/{{org}}"><img src="https://img.shields.io/badge/@-{{org}}-black"/></a>
+    <a href="{{url}}"> <img src="https://img.shields.io/badge/{{tag-badge}}-black"/> </a>
 </div>
 
 <div align="center">
