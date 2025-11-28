@@ -38,6 +38,7 @@
         space test
         space build
         space start
+        space publish
         ```
 
     - ### usage
