@@ -28,22 +28,33 @@
 
 - ## Quick Start 🔥
 
-    - ### commands
+    - ### Pre
 
         ```bash
-        # install
-        space i {{tag}}
+        # clone
+        space init <name> --type lib
+
+        # setup
+        cd <name>       # enter the project dir
+        space install   # install the dependencies if exists
 
         # manage
-        space test
-        space build
-        space start
-        space publish
+        space test      # run the tests
+        space build     # create `/dist/..`
+        space start     # build and start `/dist/main.js`
+        space publish   # to publish on `npm`
         ```
 
-    - ### usage
+    - ### Usage
+
+        ```bash
+        # to install your library after publishing on `npm`
+        space i {{tag}}
+        ```
 
         ```ts
+        // to import your library after installing via `space`
+        // inside `.ts` file
         import * as {{name}} from `{{tag}}`;
         ```
 
