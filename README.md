@@ -74,7 +74,7 @@
                 ┃ ┗ ...            #  (logo.png, ..)
                 ┃
                 ┣ dist
-                ┃ ┗ ...            # (main.js, main.js.map, ...)
+                ┃ ┗ ...            # (main.js, main.js.map, ..)
                 ┃
                 ┣ src
                 ┃ ┗ main.ts        # Main entry point
