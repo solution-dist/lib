@@ -12,8 +12,8 @@
     <a href="{{author_url}}">
     </a>
     <a href="{{homepage}}"> <img src="https://img.shields.io/badge/@-solution--lib-black"/> </a>
-    <a href="https://github.com/solution-dist/lib/actions/workflows/main.yml">
-        <img src="https://github.com/solution-dist/lib/actions/workflows/main.yml/badge.svg" alt="CI" />
+    <a href="https://github.com/solution-dist/lib/actions/workflows/ci.yml">
+        <img src="https://github.com/solution-dist/lib/actions/workflows/ci.yml/badge.svg" alt="CI" />
     </a>
     <img src="https://img.shields.io/github/issues/solution-dist/lib?style=flat" alt="Github Repo Issues" />
     <img src="https://img.shields.io/github/stars/solution-dist/lib?style=social" alt="GitHub Repo stars" />
